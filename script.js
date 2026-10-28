@@ -136,7 +136,7 @@ const artworks = [
   {
     title: "Into the Wind",
     category: "painting",
-    image: "images/paintings/BearPainting.jpg",
+    image: "images/paintings/BearPainting.JPG",
     medium: "Painting",
     year: "2015",
     description:
