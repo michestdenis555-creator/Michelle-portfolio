@@ -146,7 +146,7 @@ const artworks = [
   {
     title: "Father of the Cosmos",
     category: "painting",
-    image: "images/paintings/CosmosPainting.jpg",
+    image: "images/paintings/CosmosPainting.JPG",
     medium: "Painting",
     year: "2017",
     description:
@@ -156,7 +156,7 @@ const artworks = [
   {
     title: "Midnight Muse",
     category: "painting",
-    image: "images/paintings/CrowPainting.jpg",
+    image: "images/paintings/CrowPainting.JPG",
     medium: "Painting",
     year: "2015",
     description:
@@ -166,7 +166,7 @@ const artworks = [
   {
     title: "Floating between stars",
     category: "painting",
-    image: "images/paintings/Feathers.jpg",
+    image: "images/paintings/Feathers.JPG",
     medium: "Painting",
     year: "2016",
     description:
@@ -176,7 +176,7 @@ const artworks = [
   {
     title: "Ember glow",
     category: "painting",
-    image: "images/paintings/OrangeTreesPainting.jpg",
+    image: "images/paintings/OrangeTreesPainting.JPG",
     medium: "Painting",
     year: "2014",
     description:
@@ -186,7 +186,7 @@ const artworks = [
   {
     title: "The Blue gaze",
     category: "painting",
-    image: "images/paintings/TigerPainting.jpg",
+    image: "images/paintings/TigerPainting.JPG",
     medium: "Drawing and Painting",
     year: "2015",
     description:
@@ -196,7 +196,7 @@ const artworks = [
   {
     title: "Awakening Light",
     category: "painting",
-    image: "images/paintings/Universe.jpg",
+    image: "images/paintings/Universe.JPG",
     medium: "Painting",
     year: "2018",
     description:
@@ -206,7 +206,7 @@ const artworks = [
   {
     title: "Northern Soul",
     category: "painting",
-    image: "images/paintings/WolfPainting.jpg",
+    image: "images/paintings/WolfPainting.JPG",
     medium: "Painting",
     year: "2014",
     description:
